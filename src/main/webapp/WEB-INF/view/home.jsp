@@ -5,7 +5,7 @@
 <body>
 	<h2>Welcome to the Spring Security Demo</h2>
 	<hr>
-	<p>Let's create security login page</p>
+	<p>You have logged in successfully!</p>
 </body>
 
 </html>
